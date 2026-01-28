@@ -11,3 +11,5 @@ wheels/
 
 .env
 api_key.py
+key.txt
+key.txt.pub
